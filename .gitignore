@@ -1,0 +1,10 @@
+# NetBeans
+nbproject/
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# Maven
+target/
