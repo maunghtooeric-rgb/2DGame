@@ -3,11 +3,11 @@ package com.evergreen.dgame;
 
 /**
  *
- * @author maung
+ * @author maung & bajwa
  */
 public class App {
 
     public static void main(String[] args) {
-        System.out.println("Hello World! Nigger!");
+        System.out.println("Hello Htoo Khant and Veer Bajwa!");
     }
 }
